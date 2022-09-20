@@ -3,7 +3,7 @@
 ## Teachers Recommendation
 
 Hosted on: Netlify \
-URL: https://recommendations-mayuresh.netlify.app/
+URL: https://recommendation-mayuresh.netlify.app/
 
 Code: https://codesandbox.io/s/marknine-3deps
 
