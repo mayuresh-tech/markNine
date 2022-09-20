@@ -30,7 +30,12 @@ export default function App() {
         teacher: "Akshay Saini",
         description: "Deep knowledge of JavaScript",
         rating: "5 / 5"
-      }
+      },
+      {
+        teacher: "Hitesh Chaoudhary",
+        description: "Basics of React JS",
+        rating: "4 / 5"
+      },
     ],
     "C++": [
       {
